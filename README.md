@@ -38,3 +38,5 @@ Your views using standard `Go` template system.
 `server.go`
 
 This file starts your web application and also contains routes definition.
+
+Test - 1
