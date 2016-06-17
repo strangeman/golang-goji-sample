@@ -39,4 +39,4 @@ Your views using standard `Go` template system.
 
 This file starts your web application and also contains routes definition.
 
-Test - 2
+Test - 3
